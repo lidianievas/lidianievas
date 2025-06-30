@@ -14,7 +14,7 @@ Soy una persona con gran ambicicón por aprender y busco una formación para com
 ## 📁 Proyectos destacados
 En esta página encontrarás algunos de mis proyectos más destacados:
 
-- 🌌 [Métodos matemáticos con Octave](https://github.com/lidianievas/octave)  
+- 🌌 [Métodos matemáticos con Octave](https://github.com/lidianievas/Proyectos-con-octave.git)  
   _Distintos métodos matemátivos programados con Octave._
 
 - 📊 [Estudio de correlaciones](https://github.com/lidianievas/Estudio-de-correlaciones)
