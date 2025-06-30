@@ -25,7 +25,7 @@ En esta página encontrarás algunos de mis proyectos más destacados:
 -  🇫🇷 [Proyecto de Álgebra Lineal para la Universidad de Lorraine](https://github.com/lidianievas/Proyecto-de-algebra-lineal.git))  
   _Proyecto de álgrea lineal realizado usando Matlab asignatura de Máster cursada durante Erasmus._
 
--  🇫🇷 [Proyecto final de Erasmus en la Universidad de Lorraine](https://github.com/lidianievas/courves_parametrees)  
+-  🇫🇷 [Proyecto final de Erasmus en la Universidad de Lorraine](https://github.com/lidianievas/Proyecto-de-curvas.git))  
   _Resumen de teoría y ejercicios resueltos de la asignatura de Máster cursada durante Erasmus._
 
 ## 📬 Contacto
