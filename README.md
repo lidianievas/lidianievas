@@ -17,7 +17,8 @@ En esta página encontrarás algunos de mis proyectos más destacados:
 - 🌌 [Métodos matemáticos con Octave](https://github.com/lidianievas/octave)  
   _Distintos métodos matemátivos programados con Octave._
 
-- 📊 [Estudio de correlaciones](https://github.com/lidianievas/Estudio-de-correlaciones) 
+- 📊 [Estudio de correlaciones](https://github.com/lidianievas/Estudio-de-correlaciones)
+  
   _Análisis estadístico y visualización de variables usando R._
 
 -  🇫🇷 [Proyecto final de Erasmus en la Universidad de Lorraine](https://github.com/lidianievas/courves_parametrees)  
