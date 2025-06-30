@@ -26,4 +26,12 @@ En esta página encontrarás algunos de mis proyectos más destacados:
 -  🇫🇷 [Proyecto de Álgebra Lineal para la Universidad de Lorraine](https://github.com/lidianievas/algebre-lineaire)  
   _Proyecto de álgrea lineal realizado usando Matlab asignatura de Máster cursada durante Erasmus._
 
-Puedes contactar conmigo en [mi LinkedIn](https://www.linkedin.com/in/lidianievas) o por correo: lidia.nievasduenas@gmail.com
+## 📬 Contacto
+
+- 📧 lidia.nievasduenas@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lidianievas)  
+- 🧠 [Currículum en PDF]([https://link-a-tu-cv.com](https://github.com/lidianievas/curriculum/raw/main/Lidia_Nievas_CV.pdf))
+
+---
+
+_Gracias por visitar mi perfil 😊 ¡Estoy abierta a colaboraciones y oportunidades profesionales!_
