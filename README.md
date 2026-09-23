@@ -2,7 +2,9 @@
 
 
 🎓 Graduada en Matemáticas por la Universidad de Granada
+
 📊 Máster en Tratamiento Estadístico Computacional de la Información (TECI)
+
 💻 Interesada en Data Science, Data Analytics, Machine Learning e Inteligencia Artificial
 
 ## 🚀 Sobre mí
