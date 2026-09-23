@@ -1,15 +1,16 @@
 # ¡Hola! Soy Lidia Nievas 👋
 
-📍 De Granada (España) | 🎓 Graduada en Matemáticas  
-🧮 Especializada en estadística computacional y matemáticas aplicadas  
-🌍 Erasmus+ en la Université de Lorraine (Francia)  
-💻 Interesada en inteligencia artificial, ciencia de datos y modelos matemáticos
+
+🎓 Graduada en Matemáticas por la Universidad de Granada
+📊 Máster en Tratamiento Estadístico Computacional de la Información (TECI)
+💻 Interesada en Data Science, Data Analytics, Machine Learning e Inteligencia Artificial
 
 ## 🚀 Sobre mí
-Soy estudiante del último año del Grado en Matemáticas por la Universiad de Granada. 
-Durante mi grado me he especificado en asignaturas de estadística y matemáticas aplicadas, trabajo que estoy terminando con la realización de mi Trabajo Final de Grado sobre descenso por gradiente en aprendizaje automático. 
-Tras esto, me gustaaría especializarme en el ámbito de la inteligencia artificial y la ciencia de datos, estudios que me gustaría realizar en los próximos años.
-Soy una persona con gran ambicicón por aprender y busco una formación para comenzar mi trayectoria profesional.
+Mi formación en Matemáticas me ha permitido desarrollar una sólida capacidad analítica y de resolución de problemas, con especial interés en estadística, optimización y matemáticas aplicadas.
+Durante el grado, mi interés por la aplicación de las matemáticas al ámbito tecnológico fue creciendo y se reflejó especialmente en mi Trabajo de Fin de Grado, “Fundamentos y aplicaciones del descenso por gradiente en aprendizaje automático”.
+Actualmente continúo especializándome en el ámbito de la estadística computacional, el análisis de datos y la inteligencia artificial, con el objetivo de complementar mi base matemática con conocimientos de programación y tratamiento de datos.
+Me interesa construir un perfil que combine matemáticas, estadística y tecnología, y aplicar estas herramientas a la resolución de problemas reales.
+Estoy abierta a seguir aprendiendo, conocer nuevos proyectos y explorar oportunidades profesionales relacionadas con Data Science, Machine Learning, Data Analytics y AI.
 
 ## 📁 Proyectos destacados
 En esta página encontrarás algunos de mis proyectos más destacados:
