@@ -21,6 +21,7 @@ En esta página encontrarás algunos de mis proyectos más destacados:
   _Trabajo Fin de Grado realizado en el Grado en Matemáticas de la Universidad de Granada._
 
 -📊 [Análisis Multivariante de la Vulnerabilidad y Desnutrición Infantil](https://github.com/lidianievas/multivariate-analysis-child-malnutrition )
+
 _Proyecto de Análisis Estadístico Multivariante realizado en el Grado en Matemáticas de la Universidad de Granada, basado en datos de la encuesta SMART (2014)._
 
 - 🌌 [Métodos matemáticos con Octave](https://github.com/lidianievas/Proyectos-con-octave.git)  
