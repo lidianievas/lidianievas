@@ -17,6 +17,9 @@ Estoy abierta a seguir aprendiendo, conocer nuevos proyectos y explorar oportuni
 ## 📁 Proyectos destacados
 En esta página encontrarás algunos de mis proyectos más destacados:
 
+- 📑[TFG: Fundamentos y aplicaciones del descenso por gradiente en aprendizaje automático](https://github.com/lidianievas/TFG-Descenso-Gradiente-Aprendizaje-Automatico)  
+  _Trabajo Fin de Grado realizado en el Grado en Matemáticas de la Universidad de Granada._
+
 - 🌌 [Métodos matemáticos con Octave](https://github.com/lidianievas/Proyectos-con-octave.git)  
   _Distintos métodos matemátivos programados con Octave._
 
